@@ -294,6 +294,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -416,7 +417,7 @@
         "uuid": "6b3c14c9-8edf-41b8-ae63-42029b597228"
       }
     ],
-    "used_designators": "J2,R1-9,L1,D1-4,#PWR1-5,#PWR8-10,#PWR12-28,C1-12,Q1",
+    "used_designators": "J2,R1-10,L1,D1-5,#PWR1-5,#PWR8-10,#PWR12-28,C1-12,Q1",
     "variants": []
   },
   "sheets": [
