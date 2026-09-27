@@ -8,7 +8,7 @@ We made this project as a fun way to learn to integrate various components and w
 
 
 ## Images: 
-[3d](/images/3d.png)  
-[pcb](/images/pcb.png)  
-[sch](/images/Spindle.svg)  
+![3d](/images/3d.png)  
+![pcb](/images/pcb.png)  
+![sch](/images/Spindle.svg)  
 
