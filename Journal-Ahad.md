@@ -20,4 +20,9 @@ I have done doing most of the wiring of the power pins of the rp2350a and will b
 
 # 26 & 27 September 2026
 
-I worked on the layout of the PCB which i did almost 3 times ad i messed it up so bad the first two times I did it and found out that patience was the key for a better layout so i took 45 minutes for it. I then started routing the PCB and I found out that the board was of 4 layers and i touted the whole thing AGAIN which was a pain for my mind and i also found at the last time that my teammate didnt know how to code the touch screen so I also had to add push buttons for it
+I worked on the layout of the PCB which i did almost 3 times ad i messed it up so bad the first two times I did it and found out that patience was the key for a better layout so i took 45 minutes for it. I then started routing the PCB and I found out that the board was of 4 layers and i touted the whole thing AGAIN which was a pain for my mind and i also found at the last time that my teammate didnt know how to code the touch screen so I also had to add push buttons for it. I completed the BOM which took quite good amount of time and i also have decided to do cad the next week
+
+![image](https://cdn.hackclub.com/01a0e3c3-dd2e-790f-b8e3-aed322bf82aa/paste-1790527655492.png)
+![image](https://cdn.hackclub.com/01a0e3c3-fa8e-7f21-8983-f83cf338944f/paste-1790527664935.png)
+![image](https://cdn.hackclub.com/01a0e3c4-f3c5-7dc9-99b4-024eeefd3707/paste-1790527727964.png)
+![image](https://cdn.hackclub.com/01a0e3c6-e5eb-7f44-bfbe-bd2105a08fd6/paste-1790527854646.png)
