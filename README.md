@@ -12,3 +12,36 @@ We made this project as a fun way to learn to integrate various components and w
 ![pcb](/images/pcb.png)  
 ![sch](/images/Spindle.svg)  
 
+# BOM
+|Designator                       |Footprint                                        |Value                      |Quantity                |Price|FIELD6                                                                   |
+|---------------------------------|-------------------------------------------------|---------------------------|------------------------|-----|-------------------------------------------------------------------------|
+|C1, C2                           |402                                              |15p                        |100                     |0.16 |https://www.lcsc.com/product-detail/C526978.html                         |
+|C10, C11, C12, C4, C6, C7, C8, C9|402                                              |1u                         |100                     |0.69 |https://www.lcsc.com/product-detail/C77009.html                          |
+|C13 - C24                        |402                                              |100n                       |100                     |0.27 |https://www.lcsc.com/product-detail/C22435940.html                       |
+|C23, C25, C26, C27, C3, C5       |402                                              |4.7u                       |20                      |0.59 |https://www.lcsc.com/product-detail/C6119795.html                        |
+|D1                               |402                                              |GREEN                      |100                     |0.61 |https://www.lcsc.com/product-detail/C55072283.html                       |
+|D2                               |402                                              |RED                        |100                     |0.55 |https://www.lcsc.com/product-detail/C55072282.html                       |
+|D3, D4, D5                       |D_SOD-123                                        |MBR0530                    |20                      |0.7  |https://www.lcsc.com/product-detail/C5140024.html                        |
+|J1                               |USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A          |USB_C_Receptacle_USB2.0_16P|10                      |0.29 |https://www.lcsc.com/product-detail/C5440753.html                        |
+|J2                               |PinHeader_1x02_P2.54mm_Vertical                  |Conn_01x02_Pin             |DNP                     |DNP  |                                                                         |
+|J3                               |Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal|Conn_01x24_Pin             |10                      |0.67 |https://www.lcsc.com/product-detail/C19273933.html                       |
+|J4                               |microSD_HC_Molex_104031-0811                     |Micro_SD_Card              |3                       |2.5  |https://www.lcsc.com/product-detail/SD-Card-Connectors_MOLEX_C585350.html|
+|L1                               |L_Radial_D6.0mm_P4.00mm                          |47u                        |10                      |0.61 |https://www.lcsc.com/product-detail/C5358091.html                        |
+|L2                               |L_Sunlord_SWPA5040S                              |3.3u                       |20                      |0.76 |https://www.lcsc.com/product-detail/C2929417.html                        |
+|Q1                               |SOT-323_SC-70                                    |Si1308EDL                  |5                       |0.59 |https://www.lcsc.com/product-detail/C4355112.html                        |
+|R1                               |402                                              |60.4K                      |100                     |0.07 |https://www.lcsc.com/product-detail/C48391736.html                       |
+|R10                              |402                                              |1M                         |100                     |0.08 |https://www.lcsc.com/product-detail/C49652954.html                       |
+|R11, R2                          |402                                              |10K                        |100                     |0.08 |https://www.lcsc.com/product-detail/C881063.html                         |
+|R3, R4, R7                       |402                                              |1.5K                       |100                     |0.06 |https://www.lcsc.com/product-detail/C54920744.html                       |
+|R5, R6                           |402                                              |5.1K                       |100                     |0.06 |https://www.lcsc.com/product-detail/C54920813.html                       |
+|R8                               |402                                              |1K                         |100                     |0.06 |https://www.lcsc.com/product-detail/C54920740.html                       |
+|R9                               |402                                              |2.2                        |100                     |0.07 |https://www.lcsc.com/product-detail/C54920775.html                       |
+|SW1                              |SW_SPST_PTS810                                   |SW_Push                    |10                      |3.43 |https://www.lcsc.com/product-detail/C221895.html                         |
+|U1                               |QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm              |RP2350A                    |3                       |3.9  |https://www.lcsc.com/product-detail/C42411118.html                       |
+|U2                               |VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm             |BQ24074RGT                 |3                       |7.58 |https://www.lcsc.com/product-detail/C54313.html                          |
+|U3                               |SOT-23                                           |MCP1700x-330xxTT           |5                       |0.55 |https://www.lcsc.com/product-detail/C41381676.html                       |
+|U4                               |WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm             |W25Q128JVP                 |3                       |2.32 |https://www.lcsc.com/product-detail/C2641199.html                        |
+|Y1                               |Crystal_SMD_3225-4Pin_3.2x2.5mm                  |12mhz                      |10                      |0.55 |https://www.lcsc.com/product-detail/C16197268.html                       |
+|                                 |                                                 |                           |PCB + Stencil + Shipping|38.24|                                                                         |
+|                                 |                                                 |                           |Parts shipping          |7.91 |                                                                         |
+|                                 |                                                 |                           |Total                   |73.95|                                                                         |
