@@ -28,8 +28,8 @@ U3,SOT-23,MCP1700x-330xxTT,5,0.59,https://www.lcsc.com/product-detail/C41381676.
 U4,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,W25Q128JVP,3,2.32,https://www.lcsc.com/product-detail/C2641199.html
 U5,rpi_rmc20452t,rpi_rmc20452t,2,10.33,https://www.lioncircuits.com/parts/SC1169
 Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,12mhz,10,0.55,https://www.lcsc.com/product-detail/C16197268.html
-,,Screen,1,4.87,https://robu.in/product/wly103443-1500mah-3-7v-single-cell-rechargeable-lipo-battery/
-,,Battery,1,14.52,https://robu.in/product/2-7-inch-black-white-e-paper-good-display-with-touch-panel/
+,,Battery,1,4.87,https://robu.in/product/wly103443-1500mah-3-7v-single-cell-rechargeable-lipo-battery/
+,,Screen,1,14.52,https://robu.in/product/2-7-inch-black-white-e-paper-good-display-with-touch-panel/
 ,,,PCB+Stencil+Shipping,22.35,
 ,,,Parts Shipping,8.82,
 ,,,Total,88.56,
