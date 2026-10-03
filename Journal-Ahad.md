@@ -37,3 +37,5 @@ I started doing the CAD party of the reader which was simple which i thought wou
 # 3 October 2026
 
 So, i started the Cad work and was pleased by how easy it was to do the cad and had to continue it. Fast forward now where i m in a situation to complete the 10 hours while my teammate is lagging behind by like 5 hours :) 
+
+![image](https://cdn.hackclub.com/01a102c3-496c-7614-a91b-73e7a3dcd499/paste-1791047714058.png)
