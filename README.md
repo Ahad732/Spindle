@@ -5,7 +5,7 @@ Spindle is a low-cost, custom e-reader made with the RP2350A. It consists of a 2
 See the board on [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAhad732%2FSpindle%2Ftree%2Fmain%2FHardware)  
 
 We made this project as a fun way to learn to integrate various components and work together on different parts of the same project!  
-
+New updates upcoming: Wi-Fi Features!!
 
 ## Images:  
 ![3d-side](/images/3d-side.png)  
