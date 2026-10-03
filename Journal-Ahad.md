@@ -36,4 +36,4 @@ I started doing the CAD party of the reader which was simple which i thought wou
 
 # 3 October 2026
 
-So, i started the Cad work and was pleased by how easy it was
+So, i started the Cad work and was pleased by how easy it was to do the cad and had to continue it. Fast forward now where i m in a situation to complete the 10 hours while my teammate is lagging behind by like 5 hours :) 
