@@ -26,3 +26,14 @@ I worked on the layout of the PCB which i did almost 3 times ad i messed it up s
 ![image](https://cdn.hackclub.com/01a0e3c3-fa8e-7f21-8983-f83cf338944f/paste-1790527664935.png)
 ![image](https://cdn.hackclub.com/01a0e3c4-f3c5-7dc9-99b4-024eeefd3707/paste-1790527727964.png)
 ![image](https://cdn.hackclub.com/01a0e3c6-e5eb-7f44-bfbe-bd2105a08fd6/paste-1790527854646.png)
+
+# 1 & 2 October 2026
+
+I started doing the CAD party of the reader which was simple which i thought would be hard as i am a complete beginer to it. I took a look at some tutorials for understanding it which was like an hour of videos.i also took a look at PCB in which i added the Raspberry pi RM 2 module for the wi-fi and bluetooth connectivity.
+
+![image](https://cdn.hackclub.com/01a101e7-7230-7110-86d3-c7bf2bdb330e/paste-1791033307243.png)
+![image](https://cdn.hackclub.com/01a101ee-6ec5-7dd0-b3e9-7935fe4ebcde/paste-1791033763898.png)
+
+# 3 October 2026
+
+So, i started the Cad work and was pleased by how easy it was
