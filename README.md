@@ -5,7 +5,20 @@ Spindle is a low-cost, custom e-reader made with the RP2350A. It consists of a 2
 See the board on [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FAhad732%2FSpindle%2Ftree%2Fmain%2FHardware)  
 
 We made this project as a fun way to learn to integrate various components and work together on different parts of the same project!  
-New updates upcoming: Wi-Fi Features!!
+
+## Features:
+- Dual ARM-Cortex M-33 and Hazard3 RISC-V cores
+- WiFi Functionality
+- 16MiB flash
+- 2.7 inch e-paper display
+- 100% open-sourced
+- USB High Speed compatible
+- switching charging
+- low-power consumption
+
+# CAD: 
+So, the CAD is made in onshape, [link here](https://cad.onshape.com/documents/20ea073a3a4d1e1a3f911dd9/w/66e638eb5b2ab30e1451aaff/e/b663f709698147c3db960dcd). We have tried our best to make it look as clean as possible.  This is what the assembly looks like:  
+![image](https://cdn.hackclub.com/01a1072c-7371-717a-9901-a737c6f27390/paste-1791121713127.png)  
 
 ## Images:  
 ![3d-side](/images/3d-side.png)  
