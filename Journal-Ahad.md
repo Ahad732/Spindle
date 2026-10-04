@@ -39,3 +39,18 @@ I started doing the CAD party of the reader which was simple which i thought wou
 So, i started the Cad work and was pleased by how easy it was to do the cad and had to continue it. Fast forward now where i m in a situation to complete the 10 hours while my teammate is lagging behind by like 5 hours :) 
 
 ![image](https://cdn.hackclub.com/01a102c3-496c-7614-a91b-73e7a3dcd499/paste-1791047714058.png)
+
+[Keyaan here]
+So, i did not like how the PCB had been routed, and thus i routed it myself again. The process was good!! I assigned a lot of 3d models too and got some amazing photos:  
+![image](https://cdn.hackclub.com/01a102f3-3726-72d1-9cb7-6515c0e57421/paste-1791050854304.png)  
+![image](https://cdn.hackclub.com/01a102f3-4766-7565-837d-cd34c7b211c9/paste-1791050860041.png)  
+![image](https://cdn.hackclub.com/01a102f3-55e8-7bcc-8299-a5661e8088b5/paste-1791050863730.png)  
+![image](https://cdn.hackclub.com/01a102f3-6696-7afa-b70a-0eb011000351/paste-1791050868144.png)  
+Yeah so that is it!!
+
+
+# 4 October 2026
+I did most of the CAD work today, and lapsed it all along, and this is what the CAD looks like in onshape(Finally huh):  
+![3d cad](/images/cad-3d-side.png)  
+![cad top](/images/cad-3d-top.png)  
+
