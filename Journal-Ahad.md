@@ -47,3 +47,10 @@ So, i did not like how the PCB had been routed, and thus i routed it myself agai
 ![image](https://cdn.hackclub.com/01a102f3-55e8-7bcc-8299-a5661e8088b5/paste-1791050863730.png)  
 ![image](https://cdn.hackclub.com/01a102f3-6696-7afa-b70a-0eb011000351/paste-1791050868144.png)  
 Yeah so that is it!!
+
+
+# 4 October 2026
+I did most of the CAD work today, and lapsed it all along, and this is what the CAD looks like in onshape(Finally huh):  
+![3d cad](/images/cad-3d-side.png)  
+![cad top](/images/cad-3d-top.png)  
+
